@@ -3,7 +3,7 @@
 
 An end-to-end exploratory data analysis (EDA) of 2,260+ social media posts across five platforms, exploring how sentiment, platform, follower size, and timing relate to post engagement.
 
-##  Project Overview
+##  Overview
 
 This project analyzes social media post data to understand:
 - Which platforms and content types generate the most engagement (likes, shares, comments)
